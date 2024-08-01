@@ -1,0 +1,48 @@
+{
+  "bot-account": {
+    "username": "Tensei",
+    "password": "550099",
+    "type": "mojang"
+  },
+
+  "server": {
+    "ip": "CloudyCord.aternos.me",
+    "port": 25133,
+    "version": "1.12.2"
+  },
+
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": false,
+      "password": ""
+    },
+
+    "anti-afk": {
+      "enabled": false,
+      "sneak": false
+    },
+
+    "chat-messages": {
+      "enabled": false,
+      "repeat": true,
+      "repeat-delay": 60,
+
+      "messages": [
+        "Hi",
+        "I am tensei",
+        "API built"
+      ]
+    },
+
+    "chat-log": false,
+    "auto-reconnect": true,
+    "auto-recconect-delay": 5000
+  }
+}
